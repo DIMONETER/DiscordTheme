@@ -3,11 +3,11 @@
 
 #app-mount {
    font-family: var(--font) !important;
-   left: 3px;
-   top: 3px;
-   height: calc(100vh - 6px);
-   width: calc(100vw - 6px);
-   box-shadow: 0 0 0 1px var(--border-color), 0 0 0 3px #ff0000, 0 0 0 3px var(--border-color), 0 0 0 3px #ff0000;
+   left: 4px;
+   top: 4px;
+   height: calc(100vh - 8px);
+   width: calc(100vw - 8px);
+   box-shadow: 0 0 0 1px var(--border-color), 0 0 0 4px #ff0000, 0 0 0 4px var(--border-color), 0 0 0 4px #ff0000;
 }
 
 .winButton-iRh8-Z {
