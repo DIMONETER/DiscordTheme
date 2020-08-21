@@ -19,21 +19,8 @@
    font-family: 'Raleway' !important;
 }
 
-.wordmark-2iDDfm::before {
-   content: 'game';
-   font-size: 14px;
-   z-index: 1000;
-   position: fixed;
-   display: inline-block;
-   color: var(--text-normal);
-   height: auto;
-   top: 14px;
-   left: 12px;
-   background-color: transparent;
-}
-
 .wordmark-2iDDfm::after {
-   content: 'sense';
+   content: 'DISCORD';
    font-size: 14px;
    z-index: 1000;
    position: fixed;
