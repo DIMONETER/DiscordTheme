@@ -7,7 +7,7 @@
    top: 4px;
    height: calc(100vh - 8px);
    width: calc(100vw - 8px);
-   box-shadow: 0 0 0 1px var(--border-color), 0 0 0 4px #ff0000, 0 0 0 4px var(--border-color), 0 0 0 4px #ff0000;
+   box-shadow: 0 0 0 1px var(--border-color), 0 0 0 2px #ff0000, 0 0 0 2px var(--border-color), 0 0 0 2px #ff0000;
 }
 
 .winButton-iRh8-Z {
@@ -20,7 +20,7 @@
 }
 
 .wordmark-2iDDfm::after {
-   content: 'DISCORD';
+   content: '𝐃𝐈𝐒𝐂𝐎𝐑𝐃';
    font-size: 14px;
    z-index: 1000;
    position: fixed;
@@ -114,7 +114,7 @@
 
 .drawerSizingWrapper-17Mss4 {
    border: 1px solid var(--border-color);
-   border-radius: 10px;
+   border-radius: 5px;
 }
 
 .userPopout-3XzG_A {
